@@ -15,4 +15,4 @@ To run the AI against a computer player or another AI, type in a separate comman
 Alternatively, you can run my AI against a random move AI by typing in a separate command line: java RandomGuy [playerNum]
 
 **The framework and GUI code for this project was written by Professor Jacob Crandall <br/>
-**Elizabeth Van Patten wrote the file that contains the algorithm that runs the AI
+**Elizabeth Van Patten wrote the file that contains the algorithm that runs the AI (found in /ReversiAI/reversi_bot.py)
