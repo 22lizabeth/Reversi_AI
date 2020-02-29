@@ -3,7 +3,8 @@ AI that plays the game Reversi or Othello (can play against Human Players or Oth
 
 Note: All Java classes are already compiled. <br/>
 
-To run the server and game GUI, make sure you are in the ReversiServer directory and type in the command line: <strong>java Reversi [time] </strong><br/>
+To run the server and game GUI, make sure you are in the ReversiServer directory and type in the command line: <br/>
+<strong>java Reversi [time] </strong><br/>
 --->[time] represents and integer which is the number of total minutes you want each player to have to play the game <br/>
 --->For a game in which each player has 10 minutes, type java Reversi 10 <br/>
 
@@ -28,4 +29,4 @@ To run the AI against a random move AI, open a third command line and go to the 
 
 <hr>
 <strong>**The framework and GUI code for this project was written by Professor Jacob Crandall (this includes all code in ReversiServer, ReversiRandom, and ReversiHuman folders) </strong><br/><br/>
-<strong>**Elizabeth Van Patten wrote the entire file that contains the algorithm that runs the AI (found in /ReversiAI/reversi_bot.py)</strong>
+<strong>**Elizabeth Van Patten wrote the entire file that contains the algorithm that runs the AI (found in ReversiAI/reversi_bot.py </strong>
